@@ -1,0 +1,5 @@
+# editors
+.vscode
+
+# deps
+node_modules
